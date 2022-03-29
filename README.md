@@ -1,2 +1,3 @@
 # Descrição
-Github sem propósito real. Utilizado apenas como exerc
+Github sem propósito real. Utilizado apenas como exercício
+
